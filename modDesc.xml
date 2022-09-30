@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="60">
+    <author>Valencia3001</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Ropa</en>
+        <de>Ropa Schneidwerke</de>
+    </title>
+    <description>
+        <en>Ropa</en>
+        <de>Ropa Schneidwerke</de>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <storeItems>
+        <storeItem xmlFilename="tiger6S.xml"/>
+    </storeItems>
+</modDesc>
